@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Hexatex\LaravelImage\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelImageCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-image';
 
     public $description = 'My command';
 
